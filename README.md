@@ -31,14 +31,17 @@ Thanks a lot for your support! 💚
 - 📫 How to reach me: nkflx2@gmail.com;
   
 **Statistics:**
-
+  <div align="center">
+    
 [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <p align="center">
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-  
-  ![](https://komarev.com/ghpvc/?username=ardakazanci&style=for-the-badge	)
-  
+
+    
+  ![](https://komarev.com/ghpvc/?username=ardakazanci&style=for-the-badge)
+    
+  </div>
 </p>
 </p>
