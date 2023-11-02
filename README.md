@@ -8,6 +8,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<a href="https://stackoverflow.com/users/5595926/%ce%93d%ce%9b"><img src="https://stackoverflow.com/users/flair/5595926.png" width="208" height="58" alt="profile for ΓDΛ at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ΓDΛ at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 <!-- **Statistics:**
   <div align="center">
     
