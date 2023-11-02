@@ -8,10 +8,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-**Statistics:**
+<!-- **Statistics:**
   <div align="center">
     
-<!-- [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
+ [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
 [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai) [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
 [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai) [![](https://raw.githubusercontent.com/ardakazanci/ardakazanci-profile/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
 <p align="center"> -->
